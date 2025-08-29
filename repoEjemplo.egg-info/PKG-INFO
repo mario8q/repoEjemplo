@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: repoEjemplo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/mario8q/repoEjemplo
+Author: Mario Santa
+Author-email: mariofernandosantaruzp@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
